@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X--UA-Compatible" content="IE-edge">
+        <meta name="viewpoint" content="width==device-width, initial-scale=1.0">
+        <title>5911Fitness - The best gym in town</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="utlis.css">
+    </head>
+    <body class="overflow-x-hidden">
+        <div class="container mx-auto">
+        <header>
+            <nav class="flex justify-between">
+                <div class="font-bold flex items-center text-blue">5911 Fitness Hub</div>
+                <ul class="navbar flex items-center">
+                    <li>Home</li>
+                    <li>About</li>
+                    <li>Services</li>
+                    <li>Contact Us</li>
+                    <li><button class="btn">Join now</button></li>
+                </ul>
+            </nav>
+            <hr>
+        </header>
+        <main class="min-h-screen">
+            <section class="section1">
+                <div class="flex">
+                    <div class="topleft flex items-center flex-col px-2">
+                        <img class="dumbellimg" src="dumbell.png" alt="">
+                        <h1 class="my-1">The best Gym in the town is here</h1>
+                        <p>A gym is a building, club, or large room that usually has special equipment for physical exercise and fitness. The word gym comes from the ancient Greek word gymnasion, which means "school for naked exercise". Gymnasiums were important to the ancient Greeks, and every important city had at least one. They were usually built by the state and grew from gathering places to imposing structures with dressing rooms, baths, training quarters, and special areas for contests.</p>
+                    </div>
+                    <div class="topright">
+                       <img class="gymimg" src="gym.png" alt="">
+                    </div>
+            </section>
+            <hr>
+            <section class="section2">
+                <h1></h1>
+
+            </section>
+            <hr>
+            <section></section>
+            <hr>
+        </main>
+        <footer></footer>
+</div>
+    </body>
+</html>
